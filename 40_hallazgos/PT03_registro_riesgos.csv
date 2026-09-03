@@ -1,0 +1,13 @@
+﻿id_riesgo,activo,dueno_del_riesgo,clasificacion,amenaza,vulnerabilidad,cve,cvss,severidad_tecnica,probabilidad,impacto,riesgo_inherente,nivel
+R-001,Base de datos del portal,Gerencia Comercial,Confidencial,Explotación de vulnerabilidad técnica,MySQL / MariaDB Default Credentials (MySQL Protocol),N/D,9.8,Critical,4,4,16,Alto
+R-002,Aplicación legada interna,Gerencia de Operaciones,Interna,Explotación de vulnerabilidad técnica,Operating System (OS) End of Life (EOL) Detection,N/D,10.0,Critical,4,3,12,Alto
+R-003,Portal de clientes,Gerencia Comercial,Confidencial,Explotación de vulnerabilidad técnica,TCP Timestamps Information Disclosure,N/D,2.6,Low,2,4,8,Medio
+R-004,Portal de clientes,Gerencia Comercial,Confidencial,Explotación de vulnerabilidad técnica,ICMP Timestamp Reply Information Disclosure,N/D,2.1,Low,2,4,8,Medio
+R-005,Base de datos ERP,Gerencia de Finanzas,Restringida,Explotación de vulnerabilidad técnica,TCP Timestamps Information Disclosure,N/D,2.6,Low,1,5,5,Bajo
+R-006,Base de datos ERP,Gerencia de Finanzas,Restringida,Explotación de vulnerabilidad técnica,ICMP Timestamp Reply Information Disclosure,N/D,2.1,Low,1,5,5,Bajo
+R-007,Base de datos del portal,Gerencia Comercial,Confidencial,Explotación de vulnerabilidad técnica,TCP Timestamps Information Disclosure,N/D,2.6,Low,1,4,4,Bajo
+R-008,Base de datos del portal,Gerencia Comercial,Confidencial,Explotación de vulnerabilidad técnica,ICMP Timestamp Reply Information Disclosure,N/D,2.1,Low,1,4,4,Bajo
+R-009,Aplicación legada interna,Gerencia de Operaciones,Interna,Explotación de vulnerabilidad técnica,TCP Timestamps Information Disclosure,N/D,2.6,Low,1,3,3,Bajo
+R-010,Aplicación legada interna,Gerencia de Operaciones,Interna,Explotación de vulnerabilidad técnica,ICMP Timestamp Reply Information Disclosure,N/D,2.1,Low,1,3,3,Bajo
+R-011,Portal corporativo,Gerencia Comercial,Pública,Explotación de vulnerabilidad técnica,TCP Timestamps Information Disclosure,N/D,2.6,Low,2,1,2,Bajo
+R-012,Portal corporativo,Gerencia Comercial,Pública,Explotación de vulnerabilidad técnica,ICMP Timestamp Reply Information Disclosure,N/D,2.1,Low,2,1,2,Bajo

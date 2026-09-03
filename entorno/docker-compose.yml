@@ -63,6 +63,7 @@ services:
       MARIADB_PASSWORD: wp
       MARIADB_ROOT_PASSWORD: root
     networks: [audit_net]
+
   simplerisk-db:
     image: mariadb:11
     container_name: si084_simplerisk_db
